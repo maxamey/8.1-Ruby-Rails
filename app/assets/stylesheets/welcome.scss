@@ -1,3 +1,17 @@
 // Place all the styles related to the Welcome controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.blog_title {
+  color: rebeccapurple;
+  font-family: Helvetica, sans-serif;
+}
+
+.blog_link {
+  background-color: cornsilk;
+  border: 1px solid ;
+  border-radius: 3px;
+  color: lightcoral;
+  font-family: Helvetica, sans-serif;
+  padding: 5px;
+  text-decoration: none;
+}
